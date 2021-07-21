@@ -1,7 +1,7 @@
 ## Hi there, I'm Sergio! :genie:
 
 
-- :bookmark_tabs: I am learning **Kotlin**, **Flutter** and **Java**  <img align="right" alt="Girls Who Code" src= "https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" height = 240 width = 370/>
+- :bookmark_tabs: I am learning **Kotlin**, **Flutter** and **Java**  <img align="right" alt="Code write" src= "https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" height = 240 width = 370/>
 - 🔭 I'm training in **Data Structures and Algorithms** and **System Design**  
 - :penguin: I'm training in **LeetCode**
 - :walking: I like long walks
@@ -11,7 +11,7 @@
 - :nerd_face: Always happy to help, especially if you are trying something new!
 ### 📫 Feel free to conect with me :   <a href= "https://www.linkedin.com/in/sergio-vargas-pedraza-a86b24209/" target="_blank"><img align="center" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="nirmal-silwal" height="25" width="25" /></a> &nbsp; <a href="https://www.instagram.com/sergio_hidden/" target="_blank"><img align="center" src="https://i.pinimg.com/originals/b6/ab/7c/b6ab7c8c68a2d7e6ff2f95b388b7fd6b.gif" alt="silwal_nirmal" height="26" width="26" /></a> &nbsp;
 
-### 📺 Latest YouTube Videos <img src="https://images.vexels.com/media/users/3/141532/isolated/preview/3a36614d8dde3aa7ee06398cb6dc80cb-icono-de-goma-de-youtube-by-vexels.png" alt="linux" width="25" height="25"/>
+### 📺 Latest YouTube Videos <img src="https://images.vexels.com/media/users/3/141532/isolated/preview/3a36614d8dde3aa7ee06398cb6dc80cb-icono-de-goma-de-youtube-by-vexels.png" alt="youtube" width="25" height="25"/>
 <!-- YOUTUBE:START -->
 - [Channel](https://www.youtube.com/channel/UCboflaSQt7bDGp9dzw_eSow)
 <!-- YOUTUBE:END -->
