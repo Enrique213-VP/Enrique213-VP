@@ -22,8 +22,8 @@ I'm Sergio Vargas, System engineer with a focus in mobile development 👨‍�
   
    <div align="center">
   <a href="https://github.com/Enrique213-VP">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Enrique213-VP&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enrique213-VP&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Enrique213-VP&show_icons=true&theme=react&include_all_commits=true"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enrique213-VP&theme=react&layout=compact&line_height=40&hide=css,php,html,javascript,typescript"/>
 </div>
   
 ### 📫 Social media
