@@ -1,9 +1,11 @@
-### Welcome <img src="https://c.tenor.com/4sR1fHWU7FcAAAAC/saludo-mano.gif" width="40" height="40" />
+### Welcome!
 
-I'm Sergio Vargas, System engineer with a focus in mobile development 👨‍💻
+I focus on mobile development 👨‍💻
 
-- :bookmark_tabs: I'm currently learning **Dart**/**Flutter**  <img align="right" alt="Code write" src= "https://developers.giphy.com/branch/master/static/why_4-dbf60f160acb0c6f22c6260bd3a8c6b5.gif" height = 240 width = 370/>
-- 🔭 I'm working in my portfolio
+  <img align="right" alt="Code write" src= "https://developers.giphy.com/branch/master/static/why_4-dbf60f160acb0c6f22c6260bd3a8c6b5.gif" height = 240 width = 370/>
+ <a href="https://svape.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-000000?logo=notion&logoColor=white&style=for-the-badge" target="_blank"></a>
+<br />
+<br />
 - :walking: I like long walks
 
 
@@ -14,10 +16,16 @@ I'm Sergio Vargas, System engineer with a focus in mobile development 👨‍�
 <div> 
   <a href="https://kotlinlang.org/" target="_blank"><img src="https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge" target="_blank"></a>
   <a href = "https://developer.android.com/studio/features?authuser=1"><img src="https://img.shields.io/badge/-Android-006600?logo=android%20studio&logoColor=white&style=for-the-badge" target="_blank"></a>
-  <a href="https://developer.android.com/jetpack/compose?hl=es-419" target="_blank"><img src="https://img.shields.io/badge/-Jetpack%20Compose-004088?logo=jetpack%20compose&logoColor=white&style=for-the-badge" target="_blank"></a> 
+<a href="https://flutter.dev/" target="_blank"><img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" target="_blank"></a>
   <a href="https://firebase.google.com/" target="_blank"><img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white&style=for-the-badge" target="_blank"></a>
 </div>
 
+<a href="https://www.java.com/" target="_blank"><img src="https://img.shields.io/badge/-Java-007396?logo=oracle&logoColor=white&style=for-the-badge" target="_blank"></a>
+<a href="https://www.postman.com/" target="_blank"><img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" target="_blank"></a>
+<a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" target="_blank"></a>
+<a href="https://swift.org/" target="_blank"><img src="https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white&style=for-the-badge" target="_blank"></a>
+<br />
+<br />
 <br />
   
    <div align="center">
