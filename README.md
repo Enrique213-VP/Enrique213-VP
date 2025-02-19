@@ -8,9 +8,6 @@
   <a href="https://svape.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-000000?logo=android&logoColor=white&style=for-the-badge">
   </a>
-  <a href="https://www.linkedin.com/in/svap/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
 </p>
 
 <br>
@@ -99,10 +96,19 @@
   <a href="mailto:colombia00028@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.youtube.com/channel/UCboflaSQt7bDGp9dzw_eSow" target="_blank">
+  <a href="https://www.youtube.com/@svape" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
   <a href="https://www.instagram.com/sergio_hidden/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+    <a href="https://www.linkedin.com/in/svap/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://leetcode.com/u/svape/" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge">
+  </a>
+  <a href="https://stackoverflow.com/users/18312721/svape" target="_blank">
+    <img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stackoverflow&logoColor=white&style=for-the-badge">
   </a>
 </div>
