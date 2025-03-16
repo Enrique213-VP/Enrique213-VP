@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! 👋 I'm Sergio</h1>
+<h1 align="center">Hey there! 🤵 I'm Sergio</h1>
 
 <p align="center">
   <strong>💻 Software Developer | Android & iOS Specialist</strong>  
